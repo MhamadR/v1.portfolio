@@ -1,0 +1,15 @@
+.projects-section {
+  height: 100vh;
+  width: 400vw;
+  display: flex;
+  flex-wrap: nowrap;
+  border: 1px solid blue;
+}
+
+.project {
+  height: 100vh;
+  width: 100vw;
+  background-color: brown;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+}
